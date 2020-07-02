@@ -2,7 +2,8 @@ body{
   background-image: url("imagens/floresta.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
 }
 img{
-  width: 10px;
+  position: absolute;
 }
