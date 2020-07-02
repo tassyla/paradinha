@@ -1,0 +1,8 @@
+body{
+  background-image: url("imagens/floresta.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  width: 10px;
+}
